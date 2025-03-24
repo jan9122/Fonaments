@@ -23,9 +23,9 @@ The exercises are mainly written in **Java**, and are designed to strengthen bas
 - ☕ JDK: Java 17 or higher recommended
 - 🧰 Recommended tools: **IntelliJ IDEA**, **Eclipse**, **VS Code**, or any Java-compatible IDE
 
-##🧑‍🎓 Author
-📎 Jan Rubio and David Riera — @jan9122
-🎓 Computer Science Student at TecnoCampus Mataró (UPF)
+## 🧑‍🎓 Author
+- 📎 Jan Rubio and David Riera — @jan9122
+- 🎓 Computer Science Student at TecnoCampus Mataró (UPF)
 
-##📜 License
-This repository is intended for educational use. Feel free to use it for studying or as a reference, but please do not copy directly for academic submissions, as this could be considered plagiarism.
+## 📜 License
+- This repository is intended for educational use. Feel free to use it for studying or as a reference, but please do not copy directly for academic submissions, as this could be considered plagiarism.
